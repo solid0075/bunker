@@ -11,8 +11,8 @@
 В Windows можно открыть `START.cmd`. Для запуска из терминала откройте папку проекта и выполните команду ниже. Требуется Node.js 20 или новее. Игровой сервер запускается без установки зависимостей.
 
 ```powershell
-git clone https://github.com/solid0075/last-shift.git
-cd last-shift
+git clone https://github.com/solid0075/bunker.git
+cd bunker
 node server.mjs
 ```
 
