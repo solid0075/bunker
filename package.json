@@ -1,0 +1,8 @@
+{
+  "name": "last-shift",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": { "start": "node server.mjs", "test": "node --test test/*.test.mjs", "test:api": "node --test checks/http.mjs", "test:browser": "node checks/browser.cjs", "test:voice": "node checks/voice.cjs" }
+}
